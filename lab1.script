@@ -1,0 +1,23 @@
+Script started on 2017年03月13日 (週一) 22時58分44秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m whoami; pwd
+pd2vm
+/home/pd2vm/lab1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git config -l
+user.name=shaojason999
+user.email=shaojason999@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.shaojason999.url=https://github.com/shaojason999/lab1.git
+remote.shaojason999.fetch=+refs/heads/*:refs/remotes/shaojason999/*
+remote.lab1.url=https://github.com/shaojason999/lab1.git
+remote.lab1.fetch=+refs/heads/*:refs/remotes/lab1/*
+remote.original.url=https://github.com/shaojason999/lab1.git
+remote.original.fetch=+refs/heads/*:refs/remotes/original/*
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git clone https://github.com/shaojason999/lab1 .git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m 
+Script done on 2017年03月13日 (週一) 22時59分35秒
